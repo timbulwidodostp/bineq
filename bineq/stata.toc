@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p bineq Analyze multidimensional inequality in two dimensions of wellbeing Use bineq With STATA 19

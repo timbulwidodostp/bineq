@@ -1,0 +1,5 @@
+D 'bineq': Analyze multidimensional inequality in two dimensions of wellbeing Use bineq With STATA 19
+D
+F bineq.ado
+F bineqdiff.ado
+F bineq.sthlp
