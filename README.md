@@ -5,6 +5,8 @@ Analyze multidimensional inequality in the joint distribution of two different d
 
 Bidimensional inequality indices and associated hypothesis tests Use bineq With STATA 19
 
+https://www.youtube.com/watch?v=5GHN0xOZuI8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
